@@ -1,0 +1,28 @@
+name: update
+
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-python@v2
+        with:
+          python-version: '3.9'
+      - name: Run script
+        run: |
+          pip install requests
+          export GTOKEN=${{ secrets.GTOKEN}} && python main.py
+      - name: Commit the updated list
+        env:
+          GITHUB_EMAIL: "sungunkim367@gmail.com"
+          GITHUB_USER: "sunnysid3up"
+        run: |
+          git config user.email "${GITHUB_EMAIL}"
+          git config user.name "${GITHUB_USER}"
+          git add README.md
+          git commit -am "[DOC]: Auto update README"
+          git push -f --set-upstream origin main
