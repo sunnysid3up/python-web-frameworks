@@ -69,7 +69,7 @@ def file_read():
 
 def file_write(repos):
     with open("README.md", "w") as writer:
-        body = f""" # Popular Python Web Frameworks \nA list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.\n\n![update](https://github.com/sunnysid3up/python-web-frameworks/workflows/update/badge.svg) Last update: {datetime.now(tz=timezone.utc).strftime("%m/%d/%Y, %H:%M:%S")} (UTC)
+        body = f"""# Popular Python Web Frameworks \nA list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.\n\nLast update: {datetime.now(tz=timezone.utc).strftime("%m/%d/%Y, %H:%M:%S")} (UTC)
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|"""
