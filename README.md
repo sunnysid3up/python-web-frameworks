@@ -1,4 +1,7 @@
-# Popular Python Web Frameworks 
+# Popular Python Web Frameworks
+
+[![update](https://github.com/sunnysid3up/python-web-frameworks/actions/workflows/update.yml/badge.svg)](https://github.com/sunnysid3up/python-web-frameworks/actions/workflows/update.yml)
+
 A list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.
 
 Last update: 03/15/2021, 00:46:45 (UTC)
