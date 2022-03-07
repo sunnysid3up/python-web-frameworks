@@ -4,16 +4,16 @@
 
 A list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.
 
-Last update: 02/28/2022, 01:09:11 (UTC)
+Last update: 03/07/2022, 01:12:05 (UTC)
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|
-| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 62622 | 26656 | 162 | 2012 | 2022-02-27 |
-| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 58105 | 14883 | 13 | 2010 | 2022-02-27 |
-| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 42435 | 3223 | 1412 | 2018 | 2022-02-28 |
-| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 20409 | 5422 | 232 | 2009 | 2022-02-27 |
-| [sanic](https://github.com/sanic-org/sanic) | Next generation Python web server/framework. Build fast. Run fast. | 15886 | 1431 | 57 | 2016 | 2022-02-27 |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 12192 | 1716 | 416 | 2013 | 2022-02-27 |
+| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 62744 | 26693 | 160 | 2012 | 2022-03-07 |
+| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 58198 | 14910 | 14 | 2010 | 2022-03-06 |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 42705 | 3242 | 1432 | 2018 | 2022-03-06 |
+| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 20427 | 5424 | 233 | 2009 | 2022-03-06 |
+| [sanic](https://github.com/sanic-org/sanic) | Next generation Python web server/framework. Build fast. Run fast. | 15903 | 1432 | 53 | 2016 | 2022-03-06 |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 12219 | 1722 | 420 | 2013 | 2022-03-06 |
 
 ## Contribute 
 
