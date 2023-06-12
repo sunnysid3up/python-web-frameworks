@@ -4,16 +4,16 @@
 
 A list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.
 
-Last update: 06/05/2023, 01:38:26 (UTC)
+Last update: 06/12/2023, 01:39:24 (UTC)
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|
-| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 71264 | 29313 | 151 | 2012 | 2023-06-05 |
-| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 63169 | 15682 | 1 | 2010 | 2023-06-05 |
-| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 58689 | 4879 | 519 | 2018 | 2023-06-05 |
-| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 21134 | 5486 | 215 | 2009 | 2023-06-02 |
-| [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development . Build fast. Run fast. | 17095 | 1515 | 85 | 2016 | 2023-06-04 |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 13600 | 1908 | 496 | 2013 | 2023-06-05 |
+| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 71365 | 29344 | 149 | 2012 | 2023-06-12 |
+| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 63251 | 15686 | 1 | 2010 | 2023-06-12 |
+| [fastapi](https://github.com/tiangolo/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 58981 | 4904 | 515 | 2018 | 2023-06-12 |
+| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 21146 | 5487 | 219 | 2009 | 2023-06-12 |
+| [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development . Build fast. Run fast. | 17116 | 1516 | 87 | 2016 | 2023-06-11 |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 13623 | 1910 | 499 | 2013 | 2023-06-11 |
 
 ## Contribute 
 
