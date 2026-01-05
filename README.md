@@ -4,16 +4,16 @@
 
 A list of popular Python web frameworks ranked by the number of GitHub stars, automatically updated every week.
 
-Last update: 12/29/2025, 02:04:37 (UTC)
+Last update: 01/05/2026, 02:07:49 (UTC)
 
 | Name          | Description          | Stars                     | Forks          | Issues               | First Commit        | Last Commit         |
 |---------------|----------------------|---------------------------|----------------|----------------------|---------------------|---------------------|
-| [fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 93508 | 8438 | 197 | 2018 | 2025-12-29 |
-| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 86277 | 33424 | 374 | 2012 | 2025-12-29 |
-| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 70982 | 16669 | 13 | 2010 | 2025-12-29 |
-| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 22405 | 5545 | 210 | 2009 | 2025-12-28 |
-| [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development . Build fast. Run fast. | 18610 | 1585 | 129 | 2016 | 2025-12-28 |
-| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 16163 | 2171 | 267 | 2013 | 2025-12-28 |
+| [fastapi](https://github.com/fastapi/fastapi) | FastAPI framework, high performance, easy to learn, fast to code, ready for production | 93722 | 8464 | 207 | 2018 | 2026-01-05 |
+| [django](https://github.com/django/django) | The Web framework for perfectionists with deadlines. | 86364 | 33437 | 380 | 2012 | 2026-01-04 |
+| [flask](https://github.com/pallets/flask) | The Python micro framework for building web applications. | 71011 | 16664 | 13 | 2010 | 2026-01-05 |
+| [tornado](https://github.com/tornadoweb/tornado) | Tornado is a Python web framework and asynchronous networking library, originally developed at FriendFeed. | 22411 | 5545 | 209 | 2009 | 2026-01-04 |
+| [sanic](https://github.com/sanic-org/sanic) |  Accelerate your web app development . Build fast. Run fast. | 18610 | 1585 | 107 | 2016 | 2026-01-04 |
+| [aiohttp](https://github.com/aio-libs/aiohttp) | Asynchronous HTTP client/server framework for asyncio and Python | 16177 | 2170 | 266 | 2013 | 2026-01-05 |
 
 ## Contribute 
 
